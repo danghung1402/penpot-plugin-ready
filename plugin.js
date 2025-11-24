@@ -1,4 +1,7 @@
-penpot.ui.open("Signal Widget Generator", "", { width: 400, height: 200 });
+penpot.ui.open("Signal Widget Generator", "index.html", {
+  width: 400,
+  height: 200
+});
 
 async function generateWidgets(signalList) {
   const board = await penpot.createArtboard({

@@ -1,0 +1,6 @@
+{
+  "name": "Signal Widget Generator",
+  "description": "Tự động sinh widget từ danh sách tín hiệu",
+  "code": "/plugin.js",
+  "permissions": ["content:write", "content:read"]
+}

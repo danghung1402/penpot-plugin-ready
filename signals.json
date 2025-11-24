@@ -1,0 +1,20 @@
+[
+  { "id": "TY.teplota", "type": "teplota", "label": "TY" },
+  { "id": "FIRQ10.kumulativ", "type": "kumulativ", "label": "FIRQ10" },
+  { "id": "FIRQ10.prietok", "type": "prietok", "label": "FIRQ10" },
+  { "id": "FIRQ11.kumulativ", "type": "kumulativ", "label": "FIRQ11" },
+  { "id": "FIRQ11.prietok", "type": "prietok", "label": "FIRQ11" },
+  { "id": "FIRQ2.kumulativ", "type": "kumulativ", "label": "FIRQ2" },
+  { "id": "FIRQ2.prietok", "type": "prietok", "label": "FIRQ2" },
+  { "id": "FIRQ8.kumulativ", "type": "kumulativ", "label": "FIRQ8" },
+  { "id": "FIRQ8.prietok", "type": "prietok", "label": "FIRQ8" },
+  { "id": "FIRQ9.kumulativ", "type": "kumulativ", "label": "FIRQ9" },
+  { "id": "FIRQ9.prietok", "type": "prietok", "label": "FIRQ9" },
+  { "id": "GISA1.naplnenie", "type": "naplnenie", "label": "GISA1" },
+  { "id": "PISA1.hladina", "type": "hladina", "label": "PISA1" },
+  { "id": "PISA2.hladina", "type": "hladina", "label": "PISA2" },
+  { "id": "PIZA1.hladina", "type": "hladina", "label": "PIZA1" },
+  { "id": "TIR6.teplota", "type": "teplota", "label": "TIR6" },
+  { "id": "TY.teplota", "type": "teplota", "label": "TY" },
+  { "id": "TISA1.teplota", "type": "teplota", "label": "TISA1" }
+]
